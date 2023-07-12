@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Comando para ejecutar json server
 
-json-server --watch db.json --port 4000
-=======
 # EJERCITACIÓN DE REACT 🌐 
 A continuación muestro mis ejericicos 4 y 5 realizado para continuar practicando en React.
 
@@ -21,13 +17,11 @@ Crear una aplicación web que  muestre una lista de tareas, al ingresar una tare
 - React bootstrap.
 
 
-## COMENTARIOS EXTRA 📌
+# Comando para ejecutar json server 💻
 
-- Al no poder entregar a tiempo estos ejercicios debido a un viaje que tuve sobre la fecha, lo realizo y subo ahora, ya que es necesario para futuros trabajos practicos de backend.
+json-server --watch db.json --port 4000
 
 
 ## Autor 🙋‍♂️
 - [Agustin Baza](https://github.com/agustinbaza)
 
-
->>>>>>> 996cd64ac1e849d5aebc091978025198bdcf518c
